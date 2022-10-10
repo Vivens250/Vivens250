@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vivens250
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on the products 
+- 👀 I’m interested in Product Development and Management 
+- 🌱 I’m currently managing various products in talent development and management. 
+- 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me ...
 
 <!---
